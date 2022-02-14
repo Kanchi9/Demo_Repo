@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B605-4698
+
+ Directory of C:\Users\kanchi.shukla\Desktop\My project
+
+14-02-2022  17:08    <DIR>          .
+14-02-2022  17:08    <DIR>          ..
+14-02-2022  17:08                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  26,260,557,824 bytes free
